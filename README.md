@@ -1,5 +1,7 @@
 # Learning Bioinformatics At Home
 
+# This repository provides a nice starting point for those interested in learning bioinformatics tools for scientific inquiry. For those already familiar with the R and Python programming languages, it would be beneficial to begin exploring what the various packages have to offer to science research processes.
+
 Some resources gathered by the [Harvard Informatics group](https://informatics.fas.harvard.edu) and other contributors to help people learn bioinformatics tools (basic and specialized) at home.
 
 ## Table of content
